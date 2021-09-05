@@ -14,15 +14,15 @@ h1.text-center
 }
 h3 {
     text-align: center;
-    margin-top: 0px;
+    margin-top: 0;
 }
 
-.navbar-brand h1 {
+.navbar-brand  {
     font-size: 1.5em;
     font-weight: bold;
    /* float: left;*/
     margin-top: 0;
-    color: #000;
+    color: #000 !important;
     line-height: .75;
 }
 
